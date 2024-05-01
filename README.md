@@ -16,3 +16,5 @@ This code demonstrates the usage of systemverilog assertions.
 ### Result
 - The immediate assertion fails twice before the DUT is reset.
 - All the concurrent assertions succeed.
+
+Click [here](https://edaplayground.com/x/sw24) to open the code in EDA Playground for simulation.
